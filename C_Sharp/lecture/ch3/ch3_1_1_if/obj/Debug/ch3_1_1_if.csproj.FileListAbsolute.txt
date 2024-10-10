@@ -1,0 +1,7 @@
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\bin\Debug\ch3_1_1_if.exe.config
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\bin\Debug\ch3_1_1_if.exe
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\bin\Debug\ch3_1_1_if.pdb
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\obj\Debug\ch3_1_1_if.csproj.AssemblyReference.cache
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\obj\Debug\ch3_1_1_if.csproj.CoreCompileInputs.cache
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\obj\Debug\ch3_1_1_if.exe
+C:\Users\eren\source\repos\ch3\ch3_1_1_if\obj\Debug\ch3_1_1_if.pdb

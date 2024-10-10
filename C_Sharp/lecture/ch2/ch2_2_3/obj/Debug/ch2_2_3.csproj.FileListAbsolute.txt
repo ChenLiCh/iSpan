@@ -1,0 +1,7 @@
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\bin\Debug\ch2_2_3.exe.config
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\bin\Debug\ch2_2_3.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\bin\Debug\ch2_2_3.pdb
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\obj\Debug\ch2_2_3.csproj.AssemblyReference.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\obj\Debug\ch2_2_3.csproj.CoreCompileInputs.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\obj\Debug\ch2_2_3.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_3\obj\Debug\ch2_2_3.pdb

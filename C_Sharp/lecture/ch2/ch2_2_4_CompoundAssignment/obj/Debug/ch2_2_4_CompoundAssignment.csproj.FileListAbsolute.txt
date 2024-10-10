@@ -1,0 +1,7 @@
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\bin\Debug\ch2_2_4_CompoundAssignment.exe.config
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\bin\Debug\ch2_2_4_CompoundAssignment.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\bin\Debug\ch2_2_4_CompoundAssignment.pdb
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\obj\Debug\ch2_2_4_CompoundAssignment.csproj.AssemblyReference.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\obj\Debug\ch2_2_4_CompoundAssignment.csproj.CoreCompileInputs.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\obj\Debug\ch2_2_4_CompoundAssignment.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_2_4_CompoundAssignment\obj\Debug\ch2_2_4_CompoundAssignment.pdb

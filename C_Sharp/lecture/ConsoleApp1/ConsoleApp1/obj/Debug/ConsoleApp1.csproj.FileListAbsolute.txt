@@ -1,0 +1,14 @@
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\iSpan\C#\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\iSpan\C_Sharp\lecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

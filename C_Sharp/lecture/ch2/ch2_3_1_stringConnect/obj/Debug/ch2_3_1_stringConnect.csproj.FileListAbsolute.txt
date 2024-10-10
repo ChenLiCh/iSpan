@@ -1,0 +1,7 @@
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\bin\Debug\ch2_3_1_stringConnect.exe.config
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\bin\Debug\ch2_3_1_stringConnect.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\bin\Debug\ch2_3_1_stringConnect.pdb
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\obj\Debug\ch2_3_1_stringConnect.csproj.AssemblyReference.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\obj\Debug\ch2_3_1_stringConnect.csproj.CoreCompileInputs.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\obj\Debug\ch2_3_1_stringConnect.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringConnect\obj\Debug\ch2_3_1_stringConnect.pdb

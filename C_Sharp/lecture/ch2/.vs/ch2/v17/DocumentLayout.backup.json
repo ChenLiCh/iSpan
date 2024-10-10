@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iSpan\\C_Sharp\\lecture\\ch2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A1022-A0DC-4725-933F-E368A149E689}|ch2_4_3_TryParse\\ch2_4_3_TryParse.csproj|c:\\ispan\\c_sharp\\lecture\\ch2\\ch2_4_3_tryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A1022-A0DC-4725-933F-E368A149E689}|ch2_4_3_TryParse\\ch2_4_3_TryParse.csproj|solutionrelative:ch2_4_3_tryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iSpan\\C_Sharp\\lecture\\ch2\\ch2_4_3_TryParse\\Program.cs",
+              "RelativeDocumentMoniker": "ch2_4_3_TryParse\\Program.cs",
+              "ToolTip": "C:\\iSpan\\C_Sharp\\lecture\\ch2\\ch2_4_3_TryParse\\Program.cs",
+              "RelativeToolTip": "ch2_4_3_TryParse\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:50:42.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

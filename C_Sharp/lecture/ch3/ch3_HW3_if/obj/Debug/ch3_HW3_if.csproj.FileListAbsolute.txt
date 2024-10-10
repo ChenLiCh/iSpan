@@ -1,0 +1,7 @@
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\bin\Debug\ch3_HW3_if.exe.config
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\bin\Debug\ch3_HW3_if.exe
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\bin\Debug\ch3_HW3_if.pdb
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\obj\Debug\ch3_HW3_if.csproj.AssemblyReference.cache
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\obj\Debug\ch3_HW3_if.csproj.CoreCompileInputs.cache
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\obj\Debug\ch3_HW3_if.exe
+C:\iSpan\C_Sharp\lecture\ch3\ch3_HW3_if\obj\Debug\ch3_HW3_if.pdb

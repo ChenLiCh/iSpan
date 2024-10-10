@@ -1,0 +1,7 @@
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\bin\Debug\ch2_3_1_stringInter.exe.config
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\bin\Debug\ch2_3_1_stringInter.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\bin\Debug\ch2_3_1_stringInter.pdb
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\obj\Debug\ch2_3_1_stringInter.csproj.AssemblyReference.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\obj\Debug\ch2_3_1_stringInter.csproj.CoreCompileInputs.cache
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\obj\Debug\ch2_3_1_stringInter.exe
+C:\iSpan\C_Sharp\lecture\ch2\ch2_3_1_stringInter\obj\Debug\ch2_3_1_stringInter.pdb
